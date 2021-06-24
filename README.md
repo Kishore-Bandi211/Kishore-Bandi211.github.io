@@ -11,4 +11,4 @@ My Portfolio Website
 
 ### Screenshots
 
-![Home Page](images/Capture.JPG)
+![Home Page](images/Aboutme.JPG)
